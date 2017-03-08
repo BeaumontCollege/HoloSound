@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EFE68D17-C7F7-2CBF-CC06-572FFB59F0D5}") = "HoloSound", "Assembly-CSharp.csproj", "{B30C2FC9-27F3-B5C5-EF87-CE0B95A4494A}"
+EndProject
+Project("{EFE68D17-C7F7-2CBF-CC06-572FFB59F0D5}") = "HoloSound", "Assembly-CSharp-Editor.csproj", "{730113B0-EE26-7467-3D73-413F3F9E849A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30C2FC9-27F3-B5C5-EF87-CE0B95A4494A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30C2FC9-27F3-B5C5-EF87-CE0B95A4494A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30C2FC9-27F3-B5C5-EF87-CE0B95A4494A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30C2FC9-27F3-B5C5-EF87-CE0B95A4494A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730113B0-EE26-7467-3D73-413F3F9E849A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730113B0-EE26-7467-3D73-413F3F9E849A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730113B0-EE26-7467-3D73-413F3F9E849A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730113B0-EE26-7467-3D73-413F3F9E849A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
